@@ -1,0 +1,1 @@
+base_grant_url = 'https://nxxx.network-auth.com/splash/grant'
